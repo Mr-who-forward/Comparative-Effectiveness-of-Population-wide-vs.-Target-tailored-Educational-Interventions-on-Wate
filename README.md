@@ -1,2 +1,3 @@
-# -Sustainable-Water-Management-from-Green-Education-based-on-a-Hybrid-Time-Series-Anaylsis-and-ABM
-Paper &lt; Sustainable Water Management from Green Education based on a Hybrid Time Series Anaylsis and ABM> Supporting Information
+# Comparative Effectiveness of Population-wide vs. Target-tailored Educational Interventions on Water Conservation Behavior Change
+
+Paper &lt;  Comparative Effectiveness of Population-wide vs. Target-tailored Educational Interventions on Water Conservation Behavior Change> Supporting code
